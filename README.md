@@ -801,10 +801,3 @@ Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
 
 3. **Email:**  
    Untuk pertanyaan bisnis atau kolaborasi
-
-### Donasi
-
-Jika strategi ini membantu Anda profitable, pertimbangkan untuk support development:
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/yourlink)
-[![Crypto](https://img.shields.io/badge/Donate-Crypto-orange.svg)](
