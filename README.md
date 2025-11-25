@@ -738,7 +738,7 @@ Strategi ini dilisensikan di bawah **Mozilla Public License 2.0**.
 ### Copyright
 
 ```
-© 2024 BiticiChanel
+© 2025 BiticiChanel
 All Rights Reserved
 ```
 
